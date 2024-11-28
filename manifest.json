@@ -1,6 +1,6 @@
 {
-    "name": "varun_validating_nitrogenurea_spectra",
-    "short_name": "varun_validating_nitrogenurea_spectra",
+    "name": "atonarp_summary_page",
+    "short_name": "atonarp_summary_page",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
